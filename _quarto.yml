@@ -1,0 +1,6 @@
+project:
+  title: "edi-journalclub"
+  type: website
+  output-dir: docs
+
+

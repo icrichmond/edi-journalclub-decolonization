@@ -1,0 +1,13 @@
+---
+title: "Biology's EDI Journal Club"
+author: Bella (Ziter Lab)
+date: March 7, 2023
+format: 
+  revealjs:
+    theme: simple
+    incremental: true
+    slide-number: c
+    show-slide-number: all
+---
+
+## 
